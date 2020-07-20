@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SQLiteObjc",
+        "repositoryURL": "https://github.com/AthanasiusOfAlex/SQLiteObjc.git",
+        "state": {
+          "branch": "master",
+          "revision": "a652754a7073cb52d908c0f9b7eabdc2796f27c5",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
